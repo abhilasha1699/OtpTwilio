@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="otpTwillio.secondPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Welcome to Xamarin Essentials!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            
+            <Button x:Name="appInfo" Text="App Info" Clicked="appInfo_Clicked"/>
+            <Button x:Name="deviceDisplay" Text="Device Display" Clicked="deviceDisplay_Clicked"/>
+            <Label x:Name="resultDisplay" Margin="20"/>
+            <Entry Placeholder="What do you want to share" x:Name="entryShare" HorizontalOptions="Center" Text=""/>
+            <Button x:Name="shareText" Text="Share" Clicked="shareText_Clicked"/>
+
+            <Label x:Name="label" Text="{Binding Source={x:Reference slider}, Path=Value, StringFormat='Font Size: {0:N0}'}" VerticalTextAlignment="Center"/>
+            <Slider x:Name="slider" Maximum="50" Minimum="16"/>
+            <Label x:Name="quoteLabel" FontSize="{Binding Source={x:Reference slider}, Path=Value}"/>
+            <Button x:Name="nextQuote" Text="Next Quote" Clicked="nextQuote_Clicked"/>
+            <Entry x:Name="entryText" Placeholder="Enter Text"/>
+            <Button x:Name="textToSpeech" Text="Speak" Clicked="textToSpeech_Clicked"/>
+            <Slider x:Name="sliderVolume" MinimumTrackColor="Black" MaximumTrackColor="DarkSlateGray" Maximum="1" Minimum="0" Value="1"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
