@@ -1,0 +1,15 @@
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.csprojAssemblyReference.cache
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\bin\Debug\netstandard2.0\otpTwillio.deps.json
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\bin\Debug\netstandard2.0\otpTwillio.dll
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\bin\Debug\netstandard2.0\ref\otpTwillio.dll
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\bin\Debug\netstandard2.0\otpTwillio.pdb
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.AssemblyInfoInputs.cache
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.AssemblyInfo.cs
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.csproj.CoreCompileInputs.cache
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.dll
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\ref\otpTwillio.dll
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\otpTwillio.pdb
+C:\Users\ANIKET\source\repos\otpTwillio\otpTwillio\obj\Debug\netstandard2.0\secondPage.xaml.g.cs
